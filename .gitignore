@@ -10,3 +10,6 @@ target/
 _site/
 .idea
 *.iml
+.gradle/
+**/build/
+**/bin/
